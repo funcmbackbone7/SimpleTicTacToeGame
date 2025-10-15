@@ -1,0 +1,12 @@
+{
+  "name": "simple-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Console tic-tac-toe game for beginners",
+  "main": "tictactoe.js",
+  "scripts": {
+    "start": "node tictactoe.js"
+  },
+  "keywords": ["game", "tic-tac-toe", "javascript", "beginner"],
+  "author": "Beginner Project",
+  "license": "MIT"
+}
